@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/ArianAngoma/product-card-arianjs",
+    "type": "git"
+  },
+  "homepage": "https://arianjs.netlify.app/",
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +65,11 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.3.1",
     "typescript": "^4.5.2"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "arian",
+    "angoma"
+  ]
 }
